@@ -1,3 +1,3 @@
-module github.com/hatchify/stopwatch
+module github.com/gdbu/stopwatch
 
-go 1.14
+go 1.15
